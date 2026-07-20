@@ -1,3 +1,3 @@
-# Controles de Seguridad AWS Config cumplimiento continuo con remediación automática
+# Protección de API Gateway con WAF, CloudFront y Lambda Authorizer
 
-La práctica esta [aquí](https://github.com/alvarolinarescabre/controles-seguridad-aws-config/wiki)
+La práctica esta [aquí](https://github.com/alvarolinarescabre/controles-seguridad-apigw-waf/wiki)
